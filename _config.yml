@@ -1,0 +1,30 @@
+# main text of home
+name: Vivek Veeriah
+bio: The guy who brings solves AI.
+
+# twitter summary info
+description: A blog about technology and stuff related
+
+picture: assets/images/picture.jpg
+
+url: http://vivekveeriah.github.io
+# your url: http://USERNAME.github.io
+
+markdown: kramdown
+highlighter: rouge
+
+# if you don't have any of social below, comment the line
+# facebook: myfacebook
+# twitter: vivkjv
+# github: vivekveeriah
+email: vivekveeriah@ualberta.ca
+
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+gems:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, indigo-gh-pages.zip, Rakefile, screen-shot.png, travis.sh, tasks]
