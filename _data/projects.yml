@@ -1,15 +1,19 @@
-- name: toy-http
-  link: "https://github.com/lukas-h/toy-http"
-  description: "Ein HTTP Server mit minimalem Footprint für statisches Filehosting."
+#- name: toy-http
+#  link: "https://github.com/lukas-h/toy-http"
+#  description: "Ein HTTP Server mit minimalem Footprint für statisches Filehosting."
 
-- name: Snippets
-  link: "https://bitbucket.org/snippets/lukashimsel/"
-  description: "Code-Schnipsel und Experimente auf Bitbucket."
+#- name: Snippets
+#  link: "https://bitbucket.org/snippets/lukashimsel/"
+#  description: "Code-Schnipsel und Experimente auf Bitbucket."
 
-- name: Circle of Fifths
-  link: "http://himsel.me/fifths/"
-  description: "Ein Quintenzirkel für Musikalische."
+#- name: Circle of Fifths
+#  link: "http://himsel.me/fifths/"
+#  description: "Ein Quintenzirkel für Musikalische."
 
-- name: Code for Heilbronn
+#- name: Code for Heilbronn
+#  link: "https://github.com/opendata-heilbronn"
+#  description: "Open Data Initiative rund um die Stadt Heilbronn."
+
+- name: Coming soon
   link: "https://github.com/opendata-heilbronn"
   description: "Open Data Initiative rund um die Stadt Heilbronn."
