@@ -21,7 +21,7 @@ close_btn: "hide"
 home_btn: "home page"
 projects_btn: "projects"
 posts_btn: "posts"
-imprint_btn: "imprint"
+# imprint_btn: "imprint"
 name_badge: "an article by"
 # rss_badge: "Feed abbonieren!"
 
