@@ -10,7 +10,7 @@ github_username:  vivekveeriah
 author: "vivek veeriah"
 
 # google analytics tracking code, please change the value
-# g_analytics: "UA-72004048-3"
+g_analytics: 
 
 # add your disqus to enable comments
 disqus_shortname:
