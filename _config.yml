@@ -1,0 +1,59 @@
+title: "Vivek Veeriah"
+#description: "Lukas Himsels persönliche Website mit Themen wie Musik, Klaviere, Open-Data, Open-Source und Webprojekten."
+#about: "Schüler, der gerne Klavier spielt, Joggen geht und <i>versucht</i>, Websites und Programme zu entwickeln."
+#location: "Deutschland, Kitzingen"
+email: vivekveeriah@ualberta.ca
+baseurl: ""
+url: "http://vivekveeriah.github.io"
+twitter_username: vivkjv
+github_username:  vivekveeriah
+author: "Vivek Veeriah"
+
+# google analytics tracking code, please change the value
+# g_analytics: "UA-72004048-3"
+
+# add your disqus to enable comments
+disqus_shortname:
+
+# language settings
+isolang: de
+close_btn: "Ausblenden"
+home_btn: "Startseite"
+projects_btn: "Projekte"
+posts_btn: "Posts"
+imprint_btn: "Impressum"
+name_badge: "Ein Artikel von"
+rss_badge: "Feed abbonieren!"
+
+# build settings
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    tab_width: 4
+
+# third party gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+  - jemoji
+
+whitelist:
+  - jekyll-paginate
+  - jekyll-gist
+  - jemoji
+
+# exclude files
+exclude:
+  - LICENSE
+  - README.md
